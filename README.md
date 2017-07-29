@@ -1,6 +1,6 @@
 # Mi página principal / My main page
 
-# [![VGC Venezuela][logo]] (https://jalexl07.github.io/LigaVGCVenezuela/ "Liga VGC Venezuela")
+# [![VGC Venezuela][logo]](https://jalexl07.github.io/LigaVGCVenezuela/ "Liga VGC Venezuela")
 
 [![Home][web]](https://jalexl07.github.io/ "Home") [![Mi Facebook][facebook]](https://www.facebook.com/jalexander07 "Mi Facebook")
 
