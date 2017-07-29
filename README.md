@@ -6,4 +6,4 @@
 
 [facebook]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/fb-icon.png "Grupo de Facebook"
 [web]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/web-icon.png "Home"
-[logo]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/logo1.png "Logo"
+[logo]: https://github.com/JAlexL07/JAlexL07.github.io/raw/master/images/logo1.png "VGC Venezuela"
